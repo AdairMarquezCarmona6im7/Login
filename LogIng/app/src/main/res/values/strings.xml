@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user">Usuario</string>
+    <string name="pas">Password</string>
+    <string name="sub">LogIn</string>
+    <string name="access">Bienvenido</string>
+    <string name="out">LogOut</string>
+</resources>
